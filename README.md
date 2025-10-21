@@ -1,4 +1,6 @@
-## Hello World! I'am abidinfirman 👋
+## Hello World! I'am abidinfirman
+
+![abidinfirman](img/github-header-banner.png)
 
 <!--
 **abidinfirman/abidinfirman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on **Home**
+- 🌱 I’m currently learning [**Python**](https://www.w3schools.com)   Framework 
+
+##### My Amateur Skills
+
