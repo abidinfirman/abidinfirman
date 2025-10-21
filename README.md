@@ -1,4 +1,4 @@
-## Hello World! I'am abidinfirman
+<!-- ## Hello World! I'am abidinfirman -->
 
 ![abidinfirman](img/github-header-banner.png)
 
@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+<!--
 
 
-- 🔭 I’m currently working on **Home**
-- 🌱 I’m currently learning [**Python**](https://www.w3schools.com)   Framework 
+- <!-- 🔭 I’m currently working on  **Home**
+- <!-- 🌱 I’m currently learning [**Python**](https://www.w3schools.com)   Framework
 
-##### My Amateur Skills
+<!-- ##### My Amateur Skills 
 
